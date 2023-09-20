@@ -89,6 +89,7 @@ const htmlModalContent = ({id, title, description, url}) => {
                      :
                        `<img src="https://tse3.mm.bing.net/th?id=OIP.FjLkalx51D8xJcpixUGJywHaE8&pid=Api&P=0&h=180" alt='card image class='card-img-top md-3 rounded-md' />`
                 }
+                <br>
         <strong class='text-sm text-muted'>Created on ${date.toDateString()}</strong>    
          <h4 class='my-2'>${title}</h4>  
           <p class='lead text-muted'>${description}</p>  
